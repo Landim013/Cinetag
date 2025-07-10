@@ -10,7 +10,10 @@ Permite cadastrar vídeos com título, link e categoria personalizada, simulando
 ## 📸 Preview
 
 > ⚠️ Adicione aqui um print do projeto ou um GIF curto do uso da interface.  
-> Exemplo: `./screenshot.png`
+> ## 📸 Preview
+
+![Preview do CineTag](./src/assets/imagens/printCinetag.png)
+
 
 ---
 
